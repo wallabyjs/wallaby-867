@@ -1,0 +1,25 @@
+{
+  "name": "wallaby-867",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/wallaby-867.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/wallaby-867/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/wallaby-867#readme",
+  "devDependencies": {
+    "typescript": "^2.0.9",
+    "wallaby-webpack": "0.0.26",
+    "webpack": "^2.1.0-beta.26",
+    "webpack-node-externals": "^1.5.4"
+  }
+}
